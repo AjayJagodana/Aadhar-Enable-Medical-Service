@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+.carousel-inner img{
+    height: 100%;
+    width: 100%;
+}
+.slider{
+    width: 90%;
+    height: auto;
+    margin-left: 5%;
+}
+.fm{
+    width: 80%;
+    margin-top: 15px;
+    border-color: black;
+}
+.ft{
+    background-color: #ccc;
+    width: 100%;
+}
+.cd{
+    background-color: #9E9E9E;
+    color: black;
+}
+.card:hover{
+    box-shadow: 3px 3px 10px 10px grey;
+}
